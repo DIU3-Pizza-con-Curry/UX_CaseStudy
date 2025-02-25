@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2024-2025 (Tema: Reciclaje y artesanía
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU3.Pizza-con-Curry  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 25/02/2025
 
 Proyecto: 
 
@@ -20,8 +20,9 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Samuel Sánchez Cantero     :octocat:   [Zapi24](https://github.com/Zapi24)
+ 
+ * :bust_in_silhouette:  Victoria Dueñas Salcedo     :octocat:   [Vduesal](https://github.com/vduesal)
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
