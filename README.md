@@ -1,5 +1,5 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2024-2025 (Tema: Reciclaje y artesanía (handcraft)) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
