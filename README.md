@@ -1,9 +1,9 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario 2024-2025 (Tema: Reciclaje y artesanía (handcraft)) 
+Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraft)) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIU3.Pizza-con-Curry  Curso: 2024/25 
+Grupo: DIU3.Pizza-con-Curry.  Curso: 2024/25 
 
 Actualizado: 25/02/2025
 
@@ -20,11 +20,9 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  Samuel Sánchez Cantero     :octocat:   [Zapi24](https://github.com/Zapi24)
+ * :bust_in_silhouette:  [Samuel Sánchez Cantero](https://github.com/Zapi24)     :octocat:   
  
- * :bust_in_silhouette:  Victoria Dueñas Salcedo     :octocat:   [Vduesal](https://github.com/vduesal)
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * :bust_in_silhouette:  [Victoria Dueñas Salcedo](https://github.com/vduesal)     :octocat:   
 
 ----- 
 
