@@ -59,7 +59,7 @@ Propuestas de mejora y nuevas funcionalidades:
 
 La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proyecto de inclusión social que gestiona ropa usada, genera puestos de empleo para personas en riesgo de exclusión y fomenta la economía circular. Posee una red de tiendas textiles locales repartidas por todo el territorio nacional, en las cuales puedes donar ropa que ya no utilices para darle una segunda vida.
 
-*incluir la tabla de figma*
+![](P1/competitor_analysis.jpg)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
