@@ -55,8 +55,9 @@ Propuestas:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proyecto de inclusión social que gestiona ropa usada, genera puestos de empleo para personas en riesgo de exclusión y fomenta la economía circular. Posee una red de tiendas textiles locales repartidas por todo el territorio nacional, en las cuales puedes donar ropa que ya no utilices para darle una segunda vida.
 
+*incluir la tabla de figma*
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
