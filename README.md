@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 Grupo: DIU3.Pizza-con-Curry.  Curso: 2024/25 
 
-Actualizado: 25/02/2025
+Actualizado: 11/03/2025
 
 Proyecto: 
 
@@ -27,23 +27,28 @@ Miembros:
 ----- 
 
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
 
 # Proceso de Diseño 
 
-<br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+La plataforma que vamos a analizar es la tienda de ropa de segunda mano Moda re-, la cual fomenta el uso sostenible de la ropa, dándole una segunda vida en tiendas locales a nivel nacional. Con este plan de investigación, vamos a localizar aquellas posibles taras que dificultan la experiencia del usuario que la visita, buscando posibles mejoras.
+
+Taras: 
+- **Sobrecarga de información**: la web no sigue la “regla de los tres clics”, incluyendo la calidad del contenido y la desestructuración de la web. También afecta negativamente a la promoción de las ventas.
+- **Limitación geográfica**: solo dispone tiendas físicas locales.
+- **Problema con la interfaz**: se han querido añadir tantos “efectos” y “transiciones” de imágenes e información que a veces no es fácil interactuar con la web.
+
+Propuestas:
+- **Simplificar la web**: necesita una estructura mucho más clara, sencilla y directa. 
+- **Tienda online**: actualmente la web da la impresión de que se puede comprar online, pero no es así. Se podría implementar una tienda online, priorizando las ventas, aunque puede que no sea viable para la economía de la empresa.
+- **Añadir funcionalidad a la empresa**: podríamos incluir una sección de tutoriales para reutilizar prendas viejas, pudiendo ser posibles productos para la empresa, reforzando la imagen sostenible de la empresa.
 
 
 ### 1.b Competitive Analysis
