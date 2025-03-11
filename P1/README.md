@@ -12,7 +12,6 @@
 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
 -----
 
 La plataforma que vamos a analizar es la tienda de ropa de segunda mano *Moda re-*, la cual fomenta el uso sostenible de la ropa, dándole una segunda vida en tiendas locales a nivel nacional. Con este plan de investigación, vamos a localizar aquellas posibles taras que dificultan la experiencia que pueda tener el usuario sobre esta, con el objetivo siempre de proponer mejoras y sugerir nuevas funcionalidades que mejoren esta experiencia.
@@ -31,9 +30,8 @@ Propuestas de mejora y nuevas funcionalidades:
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
 
 La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proyecto de inclusión social que gestiona ropa usada, genera puestos de empleo para personas en riesgo de exclusión y fomenta la economía circular. Posee una red de tiendas textiles locales repartidas por todo el territorio nacional, en las cuales puedes donar ropa que ya no utilices para darle una segunda vida.
 
-![](P1/competitor_analysis.jpg)
+![](competitor_analysis.jpg)
