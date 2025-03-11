@@ -35,3 +35,19 @@ Propuestas de mejora y nuevas funcionalidades:
 La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proyecto de inclusión social que gestiona ropa usada, genera puestos de empleo para personas en riesgo de exclusión y fomenta la economía circular. Posee una red de tiendas textiles locales repartidas por todo el territorio nacional, en las cuales puedes donar ropa que ya no utilices para darle una segunda vida.
 
 ![](competitor_analysis.jpg)
+
+
+
+
+
+
+
+
+### 1.e Usability Review
+----
+
+Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontramos sus puntos fuertes y débiles.
+
+- Enlace al documento: [plantilla](P1/Usability-review-Modare.pdf)
+- URL y Valoración numérica obtenida: 60/100
+- Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
