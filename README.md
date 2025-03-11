@@ -81,7 +81,7 @@ La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proye
 
 Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontramos sus puntos fuertes y débiles.
 
-- Enlace al documento: [plantilla](P1/Usability-review-Modare.xlsx)
+- Enlace al documento: [plantilla](P1/Usability-review-Modare.pdf)
 - URL y Valoración numérica obtenida: 60/100
 - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
