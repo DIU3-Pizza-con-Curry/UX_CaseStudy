@@ -38,16 +38,18 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-La plataforma que vamos a analizar es la tienda de ropa de segunda mano Moda re-, la cual fomenta el uso sostenible de la ropa, dándole una segunda vida en tiendas locales a nivel nacional. Con este plan de investigación, vamos a localizar aquellas posibles taras que dificultan la experiencia del usuario que la visita, buscando posibles mejoras.
+La plataforma que vamos a analizar es la tienda de ropa de segunda mano *Moda re-*, la cual fomenta el uso sostenible de la ropa, dándole una segunda vida en tiendas locales a nivel nacional. Con este plan de investigación, vamos a localizar aquellas posibles taras que dificultan la experiencia que pueda tener el usuario sobre esta, con el objetivo siempre de proponer mejoras y sugerir nuevas funcionalidades que mejoren esta experiencia.
 
 Taras: 
-- **Sobrecarga de información**: la web no sigue la “regla de los tres clics”, incluyendo la calidad del contenido y la desestructuración de la web. También afecta negativamente a la promoción de las ventas.
-- **Limitación geográfica**: solo dispone tiendas físicas locales.
-- **Problema con la interfaz**: se han querido añadir tantos “efectos” y “transiciones” de imágenes e información que a veces no es fácil interactuar con la web.
+- **Sobrecarga de información**: la web no sigue la conocida “regla de los tres clics”. Esta regla consiste en que para hacer alguna operación en la página, al tener algunas funcionalidades demasiado rebuscadas, tenemos que indagar más de lo necesario en esta. Esto incluye la calidad del contenido y la desestructuración de la web. También afecta negativamente a la promoción de las ventas.
+- **Limitación geográfica**: al ser una página web de ropa, nos pueden dar la falsa idea, así como la posibilidad de comprar por internet. Sin embargo, en ningún momento nos especifica que esta funcionalidad no está implementada, sino que solo ofrece opciones de compra en tiendas físicas locales, lo que reduce mucho su alcance.
+- **No va a lo importante**: el objetivo final de las empresas de ropa es promocionar sus ventas. Por esta razón, nada más entrar a la página web, lo primero que se nos debería mostrar es la información correspondiente a las compras. Desconocemos el objetivo principal de la empresa, ya que nos lo ofrece como el reciclaje de la ropa, mientras que este debería ser el objetivo secundario que va ligado a la compra de ropa de segunda mano y reciclada.
+- **Problema con la interfaz**: se han querido añadir tantos “efectos” y “transiciones” de imágenes e información que a veces no es fácil interactuar con la web. La entrada a esta página es complicada, una persona que no tenga mucha soltura con las tecnologías, puede no llegar a entenderla e interactuar con esta fácilmente. También resulta difícil identificar, con qué elementos de la página, podemos interactuar realmente, y con cuáles no. Además, si nos damos cuenta, la información relevante pasa a un segundo plano, llamando mucho más la atención las imágenes y los efectos visuales que la información que nos quiere llegar a ofrecer.
 
-Propuestas:
-- **Simplificar la web**: necesita una estructura mucho más clara, sencilla y directa. 
-- **Tienda online**: actualmente la web da la impresión de que se puede comprar online, pero no es así. Se podría implementar una tienda online, priorizando las ventas, aunque puede que no sea viable para la economía de la empresa.
+Propuestas de mejora y nuevas funcionalidades:
+- **Simplificar la navegación y hacerla más intuitiva**: la web necesita una estructura mucho más clara y sencilla, donde los usuarios encuentren lo que buscan de forma directa. Podría mejorarse con la implementación de una barra de búsqueda visible nada más entrar en la web que muestre las distintas funcionalidades que puede ofrecer. Una interfaz limpia con botones claros y fáciles de usar haría que cualquier persona pueda utilizar la web sin problemas.
+- **Tienda online**: actualmente la web da la impresión de que se puede comprar online, pero no es así. Se podría implementar una tienda online, priorizando las ventas, aunque puede que no sea viable para la economía de la empresa. Debería informarse al usuario de que esta funcionalidad no existe, proporcionando la ubicación de las tiendas físicas de forma más directa.
+- **Priorizar las ventas**: la página web, debe enfocarse en promocionar los productos y ofertas desde el primer momento. El reciclaje y la sostenibilidad, son señales de identidad para la empresa, pero es un complemento asociado a su producto de venta, que es la ropa de segunda mano.
 - **Añadir funcionalidad a la empresa**: podríamos incluir una sección de tutoriales para reutilizar prendas viejas, pudiendo ser posibles productos para la empresa, reforzando la imagen sostenible de la empresa.
 
 
