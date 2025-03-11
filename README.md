@@ -79,10 +79,11 @@ La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proye
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontramos sus puntos fuertes y débiles.
+
+- Enlace al documento: [plantilla](P1/Usability-review-Modare.xlsx)
+- URL y Valoración numérica obtenida: 60/100
+- Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
 <br>
 
