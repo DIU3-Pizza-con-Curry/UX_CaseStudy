@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 Grupo: DIU3.Pizza-con-Curry.  Curso: 2024/25 
 
-Actualizado: 11/03/2025
+Actualizado: 14/03/2025
 
 Proyecto: 
 
@@ -65,21 +65,27 @@ La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proye
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
-
 A la hora de analizar las diferentes situaciones problemáticas que pueden surgir a la hora de acceder a [Moda re-](https://modare.org/), hemos generado dos perfiles ficticios (Amparo y Jorge).
 
 Las siguientes dos personas tienen interés por los servicios que ofrece Mora re-. Aparentemente, son perfiles de personas muy diferentes, tanto en raíces como en conocimiento, recursos y estilo de vida. Aún así, se ven relacionados en el hecho de que Amparo quiere buscar tutoriales de reciclado de ropa, y Jorge quiere comprar ropa de segunda mano online.
 
-Insertar -> Diagrama - Persona 1
+![Amparo](P1/amparo.png)
 
+![Jorge](P1/jorge.png)
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Escogemos dos experiencias de usuario que hacen uso de las funcionalidades de la plataforma para poder saber cuales son sus puntos débiles.
+
+Amparo...
+![Journey map de Amparo](P1/amparo_journeymap.png)
+
+Jorge está intentando buscar nuevas webs de ropa de segunda mano, y es ahí cuando se encuentra con *Moda re-* y decide acceder para ver las prendas que oferta este sitio.
+
+![Journey map de Jorge](P1/jorge_journeymap.png)
 
 
 ### 1.e Usability Review
