@@ -1,14 +1,9 @@
 ## DIU - Practica1, entregables
 
-
 - Desk research: Análisis Competencia 
 - 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
+- 2 User Journey Map  (1 por persona)
 - Revisión de Usabilidad 
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
 
 ### 1.a User Reseach Plan
@@ -37,10 +32,29 @@ La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proye
 ![](competitor_analysis.jpg)
 
 
+### 1.c Personas
+-----
+
+A la hora de analizar las diferentes situaciones problemáticas que pueden surgir a la hora de acceder a [Moda re-](https://modare.org/), hemos generado dos perfiles ficticios (Amparo y Jorge).
+
+Las siguientes dos personas tienen interés por los servicios que ofrece Mora re-. Aparentemente, son perfiles de personas muy diferentes, tanto en raíces como en conocimiento, recursos y estilo de vida. Aún así, se ven relacionados en el hecho de que Amparo quiere buscar tutoriales de reciclado de ropa, y Jorge quiere comprar ropa de segunda mano online.
+
+![Amparo](amparo.png)
+
+![Jorge](jorge.png)
 
 
+### 1.d User Journey Map
+----
 
+Escogemos dos experiencias de usuario que hacen uso de las funcionalidades de la plataforma para poder saber cuales son sus puntos débiles.
 
+Amparo...
+![Journey map de Amparo](amparo_journeymap.png)
+
+Jorge está intentando buscar nuevas webs de ropa de segunda mano, y es ahí cuando se encuentra con *Moda re-* y decide acceder para ver las prendas que oferta este sitio.
+
+![Journey map de Jorge](jorge_journeymap.png)
 
 
 ### 1.e Usability Review
