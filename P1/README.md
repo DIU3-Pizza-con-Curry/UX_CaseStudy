@@ -49,8 +49,9 @@ Las siguientes dos personas tienen interés por los servicios que ofrece Mora re
 
 Escogemos dos experiencias de usuario que hacen uso de las funcionalidades de la plataforma para poder saber cuales son sus puntos débiles.
 
-Amparo...
-![Journey map de Amparo](amparo_journeymap.png)
+La aspiración de Amparo es poder encontrar un uso que darle a toda esa ropa guardada que tiene en casa.
+
+![Journey map de Amparo](P1/amparo_journeymap.jpg)
 
 Jorge está intentando buscar nuevas webs de ropa de segunda mano, y es ahí cuando se encuentra con *Moda re-* y decide acceder para ver las prendas que oferta este sitio.
 
