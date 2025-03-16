@@ -67,7 +67,7 @@ La plataforma que hemos elegido para analizar es *Moda re-*, la cual es un proye
 
 A la hora de analizar las diferentes situaciones problemáticas que pueden surgir a la hora de acceder a [Moda re-](https://modare.org/), hemos generado dos perfiles ficticios (Amparo y Jorge).
 
-Las siguientes dos personas tienen interés por los servicios que ofrece Mora re-. Aparentemente, son perfiles de personas muy diferentes, tanto en raíces como en conocimiento, recursos y estilo de vida. Aún así, se ven relacionados en el hecho de que Amparo quiere buscar tutoriales de reciclado de ropa, y Jorge quiere comprar ropa de segunda mano online.
+Las siguientes dos personas tienen interés por los servicios que ofrece Mora re-. Aparentemente, son perfiles de personas muy diferentes, tanto en raíces como en conocimiento, recursos y estilo de vida. Aún así, se ven relacionados en el hecho de que Amparo quiere buscar como poder darle una segunda vida a ropa que tiene acumulada, y Jorge quiere comprar ropa de segunda mano online.
 
 ![Amparo](P1/amparo.jpg)
 
