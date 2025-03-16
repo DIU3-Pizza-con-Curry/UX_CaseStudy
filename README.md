@@ -97,7 +97,7 @@ Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontra
 
 - Enlace al documento: [plantilla](P1/Usability-review-Modare.pdf)
 - URL y Valoración numérica obtenida: 60/100
-- Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Comentario sobre la revisión:  Tras haber encontrado los puntos fuertes y débiles de la pagina web hemos podido llegar a distintas conclusiones. Por lo general, es una web que tiene un correcto funcionamiento, hace lo esperado, sin embargo, esto no implica que esté bien diseñada. La interfaz para nosotros, es el mayor problema. Es inroducirte en la web, y te saturas de imágenes, transiciones y efectos visuales, alejando la puerta de entrada y confundiendo a los usuarios. No se sabe muy bien con que elementos se pueden interactuar, y con cuales no. Adewmás, las funcionalidades que nos ofrecen, estan muy limitadas, como ya hemos comentado dentro del punto "1a", pues ofrece las posibilidades, que te puedes esperar de primeras, de una web de ropa de seguna mano.
 
 <br>
 
