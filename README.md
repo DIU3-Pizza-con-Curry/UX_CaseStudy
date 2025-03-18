@@ -110,7 +110,11 @@ Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontra
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Tras haber terminado la practica 1, hemos llegado a diversas conclusiones. Para expresarlas, hemos creado una malla receptoram en con distintos campos de información. 
+**1. Worked:** Puntos positivos que hemos encontrado sobre la web.
+**2. Change:** Problemas claros a nivel de usabilidad.
+**3. Questions:** Preguntas que un usuario puede llegar a preguntarse nada más entrar a la página.
+**4. Ideas:** Distintas propuestas de mejora.
 
 
  Interesante | Críticas     
