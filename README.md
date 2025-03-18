@@ -33,7 +33,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
@@ -102,8 +101,6 @@ Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontra
 <br>
 
 ## Paso 2. UX Design  
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
