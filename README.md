@@ -111,9 +111,13 @@ Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontra
 ----
 
 Tras haber terminado la practica 1, hemos llegado a diversas conclusiones respecto a la web *Moda re-*. Para expresarlas, hemos creado una malla receptoram en con distintos campos de información. 
+<br>
 **1. Worked:** Puntos positivos que hemos encontrado sobre la web.
+<br>
 **2. Change:** Problemas claros a nivel de usabilidad.
+<br>
 **3. Questions:** Preguntas que un usuario puede llegar a preguntarse nada más entrar a la página.
+<br>
 **4. Ideas:** Distintas propuestas de mejora.
 
 ![Malla receptora](malla_receptora.png)
