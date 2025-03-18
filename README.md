@@ -7,13 +7,17 @@ Grupo: DIU3.Pizza-con-Curry.  Curso: 2024/25
 
 Actualizado: 16/03/2025
 
-Proyecto: 
+**Proyecto:**
 
 Tienda de **ropa reciclada** online.
 
-Descripción: 
+**Descripción:** 
 
-Tras haber acabado la Práctica 1, hemos encontrado varios fallos de diseño e implementación en la página web. Uno de ellos, y para nosotros el más importante, es que no cumple con la funcionalidad principal que se espera de una web de ropa, realizar compras de forma online. Nuestra propuesta de valor es añadir esta nueva funcionalidad a la página, incluyendo un sistema de compras en el que los productos se dividan en distintas categorías, como ropa de hombre, ropa de mujer, sudaderas, etc. Cabe recalcar que, al tratarse de prendas recicladas, cada una es de única en existencia y talla. Además, estas prendas también podrán comprarse de forma física. Aprovechando el sistema de localización de tiendas físicas que tiene la web, al pulsar sobre una prenda de interés, se podrá ubicar la tienda donde está disponible. Del mismo modo, al seleccionar una tienda, podremos ver su catálogo online si preferimos esta opción.
+ Tras haber acabado la Práctica 1, hemos encontrado varios fallos de diseño e implementación en la página web. Uno de ellos, y para nosotros el más importante, es que no cumple con la funcionalidad principal que se espera de una web de ropa, realizar compras de forma online. 
+ 
+  Nuestra propuesta de valor es añadir esta nueva funcionalidad a la página, incluyendo un sistema de compras en el que los productos se dividan en distintas categorías, como ropa de hombre, ropa de mujer, sudaderas, etc. 
+  
+  Cabe recalcar que, al tratarse de prendas recicladas, cada una es de única en existencia y talla. Además, estas prendas también podrán comprarse de forma física. Aprovechando el sistema de localización de tiendas físicas que tiene la web, al pulsar sobre una prenda de interés, se podrá ubicar la tienda donde está disponible. Del mismo modo, al seleccionar una tienda, podremos ver su catálogo online si preferimos esta opción.
 
 Logotipo: 
 
