@@ -110,20 +110,13 @@ Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontra
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-Tras haber terminado la practica 1, hemos llegado a diversas conclusiones. Para expresarlas, hemos creado una malla receptoram en con distintos campos de información. 
+Tras haber terminado la practica 1, hemos llegado a diversas conclusiones respecto a la web *Moda re-*. Para expresarlas, hemos creado una malla receptoram en con distintos campos de información. 
 **1. Worked:** Puntos positivos que hemos encontrado sobre la web.
 **2. Change:** Problemas claros a nivel de usabilidad.
 **3. Questions:** Preguntas que un usuario puede llegar a preguntarse nada más entrar a la página.
 **4. Ideas:** Distintas propuestas de mejora.
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+![Malla receptora](malla_receptora.png)
 
 
 ### 2.b ScopeCanvas
