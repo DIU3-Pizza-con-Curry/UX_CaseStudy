@@ -104,7 +104,7 @@ Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontra
 
 ## Paso 2. UX Design  
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a IDEACION: Feedback Capture Grid 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
