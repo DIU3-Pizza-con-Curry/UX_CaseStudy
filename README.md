@@ -12,10 +12,10 @@ Actualizado: 25/03/2025
 Tutoriales de **reciclado de ropa**.
 
 **Descripción:** 
- 
-Nuestra propuesta de valor se basa en añadir esta nueva funcionalidad a la página, incluyendo un sistema para que los usuarios puedan publicar sus propios tutoriales de reciclaje de ropa y, a su vez, consultar los tutoriales publicados por el resto.
 
-A modo de "filtro" y de evitar posibles publicaciones fraudulentas, en nuestra nueva funcionalidad serán los propios usuarios los que acepten o denieguen la subida de los tutoriales del resto de personas. De esta forma, antes de su publicación final, un tutorial debe pasar por un proceso de selección para corroborar si cumple con los requisitos necesarios para su publicación, capando así aquellas interacciones que no tengan nada que ver con el reciclado de ropa o que atenten contra el civismo. 
+Nuestra propuesta de valor se basa en añadir esta nueva funcionalidad a la página, incluyendo un sistema de posts para que los usuarios puedan publicar sus propios tutoriales de reciclaje de ropa y, a su vez, consultar los tutoriales publicados por el resto.
+
+El hilo de conversación sobre estos posts obviamente girará en torno a la ropa reciclada, y derivados de este. Además de compartir alguna experiencia personal, compartir tips sobre un estilo de vida reciclable etc. La imaginación es infinita, y los usuarios tendrán total libertad en este aspecto.
 
 **Logotipo:** 
 
