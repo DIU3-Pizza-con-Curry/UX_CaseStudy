@@ -135,6 +135,7 @@ Aun así, esta libertad no puede ser total. Si cualquier usuario puede escribir 
 
 3. Habrá a su vez un filtro automático por código, el cual no dejará publicar posts que detecte que contenga palabras palabras malsonantes. 
 
+![Scope Canvas](P2/scope_canvas.png)
 
 
 ### 2.b User Flow (task) analysis 
