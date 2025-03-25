@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 **Grupo:** DIU3.Pizza-con-Curry.  Curso: 2024/25 
 
-Actualizado: 18/03/2025
+Actualizado: 25/03/2025
 
 **Proyecto:**
 
@@ -13,9 +13,9 @@ Tutoriales de **reciclado de ropa**.
 
 **Descripción:** 
  
-Nuestra propuesta de valor se basa en añadir esta nueva funcionalidad a la página, incluyendo un sistema de compras en el que los productos se dividan en distintas categorías, como ropa de hombre, ropa de mujer, sudaderas, etc. 
-  
-Cabe recalcar que, al tratarse de prendas recicladas, cada una es de única en existencia y talla. Además, estas prendas también podrán comprarse de forma física. Aprovechando el sistema de localización de tiendas físicas que tiene la web, al pulsar sobre una prenda de interés, se podrá ubicar la tienda donde está disponible. Del mismo modo, al seleccionar una tienda, podremos ver su catálogo online si preferimos esta opción.
+Nuestra propuesta de valor se basa en añadir esta nueva funcionalidad a la página, incluyendo...
+
+***NOTA: VOLVER A HACER ESTA PARTE***
 
 **Logotipo:** 
 
