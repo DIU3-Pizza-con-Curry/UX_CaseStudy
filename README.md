@@ -148,7 +148,14 @@ Aun así, esta libertad no puede ser total. Si cualquier usuario puede escribir 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+#### SiteMap (Mapa de sitio)
+Es una representación estructurada de las páginas y contenido dentro de un sitio web o aplicación. Sirve como una guía para entender la organización y la jerarquía de la información.
+Vamos a definir la navegabilidad y la indexación de nuestra plataforma, beneficiando la experiencia de los usuarios.
+
+
+
+#### Labelling
+El proceso de asignar nombres claros y descriptivos a los elementos de una interfaz de usuario, como menús, botones y enlaces. Su objetivo es mejorar la usabilidad y la comprensión del usuario al proporcionar indicaciones precisas y coherentes sobre la función de cada elemento.
 
 Término | Significado     
 | ------------- | -------
