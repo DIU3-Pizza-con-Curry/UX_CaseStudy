@@ -108,7 +108,7 @@ Tras hacer una revisión de usabilidad de la web de *Moda re-* a fondo, encontra
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-Tras haber terminado la practica 1, hemos llegado a diversas conclusiones respecto a la web *Moda re-*. Para expresarlas, hemos creado una malla receptoram en con distintos campos de información. 
+Tras haber terminado la práctica 1, hemos llegado a diversas conclusiones respecto a la web *Moda re-*. Para expresarlas, hemos creado una malla receptora con distintos campos de información. 
 <br>
 **1. Worked:** Puntos positivos que hemos encontrado sobre la web.
 <br>
