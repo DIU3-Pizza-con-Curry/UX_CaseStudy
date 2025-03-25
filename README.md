@@ -13,9 +13,9 @@ Tutoriales de **reciclado de ropa**.
 
 **Descripción:** 
  
-Nuestra propuesta de valor se basa en añadir esta nueva funcionalidad a la página, incluyendo...
+Nuestra propuesta de valor se basa en añadir esta nueva funcionalidad a la página, incluyendo un sistema para que los usuarios puedan publicar sus propios tutoriales de reciclaje de ropa y, a su vez, consultar los tutoriales publicados por el resto.
 
-***NOTA: VOLVER A HACER ESTA PARTE***
+A modo de "filtro" y de evitar posibles publicaciones fraudulentas, en nuestra nueva funcionalidad serán los propios usuarios los que acepten o denieguen la subida de los tutoriales del resto de personas. De esta forma, antes de su publicación final, un tutorial debe pasar por un proceso de selección para corroborar si cumple con los requisitos necesarios para su publicación, capando así aquellas interacciones que no tengan nada que ver con el reciclado de ropa o que atenten contra el civismo. 
 
 **Logotipo:** 
 
