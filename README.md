@@ -142,7 +142,14 @@ Aun así, esta libertad no puede ser total. Si cualquier usuario puede escribir 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Hemos diseñado los pasos a seguir para 3 de las acciones que podrán realizar los usuarios que interactúen con nuestra propuesta de funcionalidad.
+
+- Añadir una nueva publicación:
+
+- Buscar la publicación más valorada:
+
+- Ver las publicaciones de los demás:
+
 
 
 ### 2.c IA: Sitemap + Labelling 
