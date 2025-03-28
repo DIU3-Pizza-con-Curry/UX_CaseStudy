@@ -34,8 +34,15 @@ Aun así, esta libertad no puede ser total. Si cualquier usuario puede escribir 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+Hemos diseñado los pasos a seguir para 3 de las acciones que podrán realizar los usuarios que interactúen con nuestra propuesta de funcionalidad.
+
+- Añadir una nueva publicación:
+
+![Task1](task1.png)
+
+- Ver las publicaciones de los demás:
+
+![Task2](task2.png)
 
 
 
