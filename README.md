@@ -171,8 +171,15 @@ El Sitemap de nuestra implementación es realmente básico, ya que al acceder al
 El proceso de asignar nombres claros y descriptivos a los elementos de una interfaz de usuario, como menús, botones y enlaces. Su objetivo es mejorar la usabilidad y la comprensión del usuario al proporcionar indicaciones precisas y coherentes sobre la función de cada elemento.
 
 Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+| Término         | Significado                                                             |
+| -------------- | ---------------------------------------------------------------------- |
+| FORO           | Ingresamos a la implementación                                       |
+| Principal      | Pantalla principal que nos aparece al ingresar                       |
+| Publicaciones  | Ventana que mediante scroll, vemos los distintos posts.              |
+| Nueva Publicación | Ventana emergente que nos permite añadir un post.                  |
+| Barra Lateral  | Menú desplegable, para ordenar y ver marcadores globales de tortugas. |
+| Buscador       | Ingresamos texto para filtrar los posts.                             |
+
 
 
 ### 2.d Wireframes
