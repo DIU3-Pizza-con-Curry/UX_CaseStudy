@@ -48,7 +48,12 @@ Hemos diseñado los pasos a seguir para 3 de las acciones que podrán realizar l
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+  
+El Sitemap de nuestra implementación es realmente básico, ya que al acceder al foro todo girará en torno al carrusel vertical de las publicaciones. Las distintas ventanas que aparecen, como la lateral o la de publicación de un nuevo post, son ventanas emergentes, que se muestran encima de la original. Partiendo de esto, llegamos a la siguiente estructura: 
+
+![SiteMap](siteMap.png)
+
 * Labelling 
 
 
