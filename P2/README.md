@@ -74,11 +74,6 @@ El Sitemap de nuestra implementación es realmente básico, ya que al acceder al
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
-
-Aquí tienes el texto con la misma estructura que el original, pero mejor redactado:  
-
----
 
 Una de las valoraciones más positivas que sacamos de esta práctica es el enfoque imaginativo que se nos propone a la hora de recrear e implementar una nueva funcionalidad a nivel de diseño. Quisimos darle un toque de humor con el sistema de *tortugas tristes y felices*, enfocando la idea principal de valoraciones de los posts en esto, para aportar originalidad a nuestro sistema de publicación.  
 
