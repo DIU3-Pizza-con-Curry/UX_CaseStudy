@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 **Grupo:** DIU3.Pizza-con-Curry.  Curso: 2024/25 
 
-Actualizado: 28/03/2025
+Actualizado: 01/04/2025
 
 **Proyecto:**
 
