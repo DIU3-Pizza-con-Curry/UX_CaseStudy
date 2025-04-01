@@ -62,7 +62,7 @@ El Sitemap de nuestra implementación es realmente básico, ya que al acceder al
 | -------------- | ---------------------------------------------------------------------- |
 | FORO           | Ingresamos a la implementación                                       |
 | Principal      | Pantalla principal que nos aparece al ingresar                       |
-| Publicaciones  | Ventana que mediante scroll, vemos los distintos posts.              |
+| Ver Publicación  | Ventana para ver el post desde más cerca. 
 | Nueva Publicación | Ventana emergente que nos permite añadir un post.                  |
 | Barra Lateral  | Menú desplegable, para ordenar y ver marcadores globales de tortugas. |
 | Buscador       | Ingresamos texto para filtrar los posts.                             |
