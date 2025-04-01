@@ -170,7 +170,7 @@ El Sitemap de nuestra implementación es realmente básico, ya que al acceder al
 #### Labelling
 El proceso de asignar nombres claros y descriptivos a los elementos de una interfaz de usuario, como menús, botones y enlaces. Su objetivo es mejorar la usabilidad y la comprensión del usuario al proporcionar indicaciones precisas y coherentes sobre la función de cada elemento.
 
-Término | Significado     
+   
 | Término         | Significado                                                             |
 | -------------- | ---------------------------------------------------------------------- |
 | FORO           | Ingresamos a la implementación                                       |
