@@ -193,15 +193,36 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
 ![Inicio](P2/Inicio.png)
 
 
-<img
-  src = "./P2/Inicio.png"
-  alt = "Inicio"
-  height= "50"
-  width= "50">
+<div class = "imagenes-p2">
+ 
+ <img
+   src = "./P2/Inicio.png"
+   alt = "Inicio"
+   height= "2000"
+   width= "600">
+   
+   <img
+   src = "./P2/Filtrar.png"
+   alt = "Filtrar"
+   height= "50"
+   width= "50">
+   
+   <img
+   src = "./P2/Publicar.png"
+   alt = "Publicar"
+   height= "50"
+   width= "50">
+   
+   <img
+   src = "./P2/Visualizar.png"
+   alt = "Visualizar"
+   height= "50"
+   width= "50">
+</div>
 
 
 ![Filtrar](P2/Filtrar.png)
-
+Publicar.png
 
 ![Publicar](P2/Publicar.png)
 
