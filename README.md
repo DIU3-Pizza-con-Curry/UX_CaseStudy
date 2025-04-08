@@ -193,6 +193,14 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
 ![Inicio](P2/Inicio.png)
 
 
+<img
+  src = "./P2/Inicio.png"
+  alt = "Inicio"
+  height: 50px;
+  width: 50px;
+>
+
+
 ![Filtrar](P2/Filtrar.png)
 
 
