@@ -190,7 +190,7 @@ Pantalla de inicio:
 <br>
 Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos en la primera publicación, que es una publicación vacía, podemos añadir una nueva publicación. Si utilizamos el buscador podemos filtrar por palabras para buscar algo en concreto. Podemos pulsar en las 3 líneas para abrir la barra lateral. Y por último y más importante, podemos scrollear hacia abajo, para ver los demás post del foro, pudiendo pulsar en ellos para verlos desde más cerca.
 
-![Inicio](P2/Inicio.png)
+
 
 
 <div class = "imagenes-p2">
@@ -199,7 +199,7 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
    src = "./P2/Inicio.png"
    alt = "Inicio"
    height= "2000"
-   width= "600">
+   width= "auto">
    
    <img
    src = "./P2/Filtrar.png"
@@ -220,14 +220,6 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
    width= "50">
 </div>
 
-
-![Filtrar](P2/Filtrar.png)
-Publicar.png
-
-![Publicar](P2/Publicar.png)
-
-
-![Visualizar](P2/Visualizar.png)
 
 
 
