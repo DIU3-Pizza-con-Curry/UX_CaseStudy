@@ -197,8 +197,7 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
   src = "./P2/Inicio.png"
   alt = "Inicio"
   height= "50"
-  width= "50"
->
+  width= "50">
 
 
 ![Filtrar](P2/Filtrar.png)
