@@ -196,8 +196,8 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
 <img
   src = "./P2/Inicio.png"
   alt = "Inicio"
-  height: 50px;
-  width: 50px;
+  height= 50;
+  width= 50;
 >
 
 
