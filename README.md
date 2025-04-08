@@ -188,7 +188,7 @@ El proceso de asignar nombres claros y descriptivos a los elementos de una inter
 
 
 <div align="center">
-  <img src="./P2/Inicio.png" alt="Inicio" height="300">
+  <img src="./P2/Inicio.png" alt="Inicio" height="600" width="auto">
 </div>
 
 **Pantalla de inicio:**  
@@ -197,7 +197,7 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
 ---
 
 <div align="center">
-  <img src="./P2/Filtrar.png" alt="Filtrar" height="300">
+  <img src="./P2/Filtrar.png" alt="Filtrar" height="600" width="auto">
 </div>
 
 **Ordenación de publicaciones y contador global de interacciones (barra lateral):**  
@@ -206,7 +206,7 @@ Al pulsar en las 3 líneas accedemos a la barra lateral, y pulsándolas de nuevo
 ---
 
 <div align="center">
-  <img src="./P2/Publicar.png" alt="Publicar" height="300">
+  <img src="./P2/Publicar.png" alt="Publicar" height="600" width="auto">
 </div>
 
 **Publicar un post:**  
@@ -215,7 +215,7 @@ Al pulsar en la primera publicación (vacía) nos aparece una ventana emergente 
 ---
 
 <div align="center">
-  <img src="./P2/Visualizar.png" alt="Visualizar" height="300">
+  <img src="./P2/Visualizar.png" alt="Visualizar" height="600" width="auto">
 </div>
 
 **Visualizar e interaccionar con una publicación:**  
@@ -224,7 +224,7 @@ Al pulsar en una de las publicaciones ya existentes en el foro nos aparece una v
 
 
 
-
+<br>
 
 ### Conclusión sobre la P2:
 
