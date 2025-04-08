@@ -190,7 +190,14 @@ Pantalla de inicio:
 <br>
 Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos en la primera publicación, que es una publicación vacía, podemos añadir una nueva publicación. Si utilizamos el buscador podemos filtrar por palabras para buscar algo en concreto. Podemos pulsar en las 3 líneas para abrir la barra lateral. Y por último y más importante, podemos scrollear hacia abajo, para ver los demás post del foro, pudiendo pulsar en ellos para verlos desde más cerca.
 
-
+<style>
+    .imagenes-p2 {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center; 
+    }
+</style>
 
 
 <div class = "imagenes-p2">
