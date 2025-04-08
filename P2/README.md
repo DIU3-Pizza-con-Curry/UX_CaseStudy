@@ -72,7 +72,7 @@ El Sitemap de nuestra implementación es realmente básico, ya que al acceder al
 ### Prototipo Lo-FI Wireframe 
 
 <div align="center">
-  <img src="./P2/Inicio.png" alt="Inicio" height="600" width="auto">
+  <img src="./Inicio.png" alt="Inicio" height="600" width="auto">
 </div>
 <br>
 
@@ -82,7 +82,7 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
 ---
 
 <div align="center">
-  <img src="./P2/Filtrar.png" alt="Filtrar" height="600" width="auto">
+  <img src="./Filtrar.png" alt="Filtrar" height="600" width="auto">
 </div>
 <br>
 
@@ -92,7 +92,7 @@ Al pulsar en las 3 líneas accedemos a la barra lateral, y pulsándolas de nuevo
 ---
 
 <div align="center">
-  <img src="./P2/Publicar.png" alt="Publicar" height="600" width="auto">
+  <img src="./Publicar.png" alt="Publicar" height="600" width="auto">
 </div>
 <br>
 
@@ -102,7 +102,7 @@ Al pulsar en la primera publicación (vacía) nos aparece una ventana emergente 
 ---
 
 <div align="center">
-  <img src="./P2/Visualizar.png" alt="Visualizar" height="600" width="auto">
+  <img src="./Visualizar.png" alt="Visualizar" height="600" width="auto">
 </div>
 
 <br>
