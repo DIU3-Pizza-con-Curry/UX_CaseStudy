@@ -198,26 +198,26 @@ Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos 
  <img
    src = "./P2/Inicio.png"
    alt = "Inicio"
-   height= "2000"
+   height= "500"
    width= "auto">
    
    <img
    src = "./P2/Filtrar.png"
    alt = "Filtrar"
-   height= "50"
-   width= "50">
+   height= "500"
+   width= "auto">
    
    <img
    src = "./P2/Publicar.png"
    alt = "Publicar"
-   height= "50"
-   width= "50">
+   height= "500"
+   width= "auto">
    
    <img
    src = "./P2/Visualizar.png"
    alt = "Visualizar"
-   height= "50"
-   width= "50">
+   height= "500"
+   width= "auto">
 </div>
 
 
