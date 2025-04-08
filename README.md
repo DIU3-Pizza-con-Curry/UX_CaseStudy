@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 **Grupo:** DIU3.Pizza-con-Curry.  Curso: 2024/25 
 
-Actualizado: 01/04/2025
+Actualizado: 08/04/2025
 
 **Proyecto:**
 
@@ -186,7 +186,18 @@ El proceso de asignar nombres claros y descriptivos a los elementos de una inter
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+
+![Inicio](P2/Inicio.png)
+
+
+![Filtrar](P2/Filtrar.png)
+
+
+![Publicar](P2/Publicar.png)
+
+
+![Visualizar](P2/Visualizar.png)
+
 
 
 ### Conclusión sobre la P2:
