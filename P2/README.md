@@ -76,7 +76,7 @@ Pantalla de inicio:
 Interfaz de inicio, con la cual podemos navegar a través del foro. Si pulsamos en la primera publicación, que es una publicación vacía, podemos añadir una nueva publicación. Si utilizamos el buscador podemos filtrar por palabras para buscar algo en concreto. Podemos pulsar en las 3 líneas para abrir la barra lateral. Y por último y más importante, podemos scrollear hacia abajo, para ver los demás post del foro, pudiendo pulsar en ellos para verlos desde más cerca.
  
  <img
-   src = "./P2/Inicio.png"
+   src = "./Inicio.png"
    alt = "Inicio"
    height= "500"
    width= "auto">
@@ -86,7 +86,7 @@ Ordenación de publicaciones y contador global de interacciones (barra lateral):
 Al pulsar en las 3 líneas accedemos a la barra lateral, y pulsandolas de nuevo, salimos de esta. Dentro de esta barra podemos ordenar los posts por “post más ecológicos” o “menos ecológico”, es decir, ordenar los post por mayor número de tortugas felices o tristes en todo el foro. Además de un marcador global donde se ven estas estadísticas.
 
    <img
-   src = "./P2/Filtrar.png"
+   src = "./Filtrar.png"
    alt = "Filtrar"
    height= "500"
    width= "auto">
@@ -96,7 +96,7 @@ Publicar un post:
 Al pulsar en la primera publicación (vacía) nos aparece una ventana emergente sobre el foro, donde podemos añadir una nueva publicación a este. Debemos completar los campos obligatorios de identificación, y completar el post a nuestro gusto, pudiendo añadir multimedia. Podemos volver atrás si no queremos publicar nada, o terminar de publicar nuestro post.
 
    <img
-   src = "./P2/Publicar.png"
+   src = "./Publicar.png"
    alt = "Publicar"
    height= "500"
    width= "auto">
@@ -106,7 +106,7 @@ Visualizar e interaccionar con una publicación:
 Al pulsar en una de las publicaciones ya existentes en el foro nos aparece una ventana emergente en la que podemos ver la publicación actual completa, con sus archivos adjuntos, y en la que podemos interaccionar mediante las tortugas en función de si nos gusta más o menos la publicación. Podemos volver atrás cuando queramos volver a la pantalla de inicio del foro, o podemos pasar a la siguiente publicación para seguir interaccionando con ellas. 
 
    <img
-   src = "./P2/Visualizar.png"
+   src = "./Visualizar.png"
    alt = "Visualizar"
    height= "500"
    width= "auto">
