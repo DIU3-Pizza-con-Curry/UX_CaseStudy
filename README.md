@@ -245,7 +245,10 @@ Como conclusión, hemos aprendido muchas ideas de diseño durante esta práctica
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+El nombre que hemos elegido es: **Thread&Shell**
+
+Hemos intentado unificar la idea principal de nuestro proyecto, que es el de un foro de posts sobre el que ir scrolleando, por eso el término de **Thread** (hilo de posts) con el tema principal de nuestra página, la ecología, por eso hacemos referencia al caparazon de las tortugas, elemento que sale a lo largo de la página **Shell**.
+
 
 
 ### 3.a Moodboard
