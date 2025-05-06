@@ -255,9 +255,16 @@ Hemos intentado unificar la idea principal de nuestro proyecto, que es el de un 
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Para el diseño visual de nuestra aplicación "Thread&Shell", hemos diseñado un Moodboard en el que hemos plasmado los patrones y características de diseño que tiene una aplicación. Dentro de nuestro Moodboard hemos añadido lo siguiente:
+
+- **Nuestra estrategia de marca:** para marcar los puntos de nuestra visión a la hora de enfocar la aplicación, estableciendo así el nombre definitivo de nuestra página.
+- **Estilo de nuestro logo:** hemos creado una imagen utilizando ingeniera artificial de una tortuga para utilizarla como logo. Nuestra idea es que las tortugas sean nuestra seña de identidad, pues es un elementos que utilizamos constantemente.
+- **Nuestro branding:** establecemos un eslogan como empresa, buscando atraer a un público ecologista y de bienestar con el juego de palabras de "Thread&Shell = Tortugas felices".
+- **Paleta de colores:** utilizamos distintos tonos de verde, que son colores que nos acercan a la naturaleza.
+- **Tipografia:** utilizamos letras con un estilo minimalista, que sean facil de leer en dispotivos pequeños.
+- **Imágenes:** hemos insertado una serie de imágenes, entre las que encontramos las tortugas felices/tristes y distintos iconos que indican funcionalidades dentro de nuestra aplicación.
+
+Hemos añadido mensajes de inspiración basados en posibles usuarios además de imágenes que hemos utilizado como inspiracion de estilo para forjar el nuestro propio.
 
 
 ### 3.b Landing Page
