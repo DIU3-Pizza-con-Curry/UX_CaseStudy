@@ -277,8 +277,34 @@ Hemos añadido mensajes de inspiración basados en posibles usuarios además de 
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Nos hemos estado documentando en UI Patterns para definir los siguientes patrones de diseño que hemos implementado en nuestro foro de publicaciones. Estos patrones garantizan una experiencia de usuario clara, intuitiva y coherente durante su uso.
+
+**Navegación y Contenido:**
+
+- **1. NavBar**: Hemos planteado una navegación clara en la parte superior. Nos permite abrir rápidamente la barra lateral o realizar búsquedas en el foro en cualquier momento.
+
+- **2. Search**: Tenemos una barra de búsqueda visible y funcional que nos permite escribir para encontrar publicaciones específicas mediante palabras clave o usuarios.
+
+- **3. Infinite Scroll**: El contenido se va cargando a medida que el usuario va haciendo scroll en la página principal.
+
+- **4. Feed/List View (Cards)**: Las publicaciones se ven como tarjetas verticales que están ordenadas cronológicamente o por relevancia. Este formato mejora la legibilidad y separa claramente los posts entre sí.
+
+- **5. Modal View**: Al pulsar sobre la primera publicación que nos permite añadir un nuevo post, se abre una ventana emergente que permite escribir la información necesaria para publicarlo o simplemente volver hacia atrás.
+
+- **6. Lateral Menu**: Barra lateral desplegable que permite ordenar el contenido por criterios como “Más valorados” o “Menos valorados”, adaptando el foro a las preferencias del usuario.
+
+**Interacción y Acciones de Usuario**
+
+- **7. Like / Dislike Buttons**: Botones accesibles para valorar las publicaciones de forma rápida. Aumentan la interacción con el usuario y ayudan a destacar el contenido relevante.
+
+- **8. Quick Post Form**: Contamos con un "formulario" rápido y accesible que nos permite escribir nuevas publicaciones ingresando pocos campos de texto, solo los imprescindibles.
+
+- **9. Item Details + Actions**: Obtenemos una vista más detallada sobre cada publicación al interactuar con ella.
+
+**Comunicación y Retroalimentación**
+
+- **10. Toasts / Snackbars**: Mensajes breves, ya sean visuales o de texto, que confirman acciones importantes como publicar, dar like o dislike.
+
 
 
 ### 3.d Mockup
