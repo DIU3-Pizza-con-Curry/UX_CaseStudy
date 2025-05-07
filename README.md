@@ -259,27 +259,33 @@ Para el diseño visual de nuestra aplicación "Thread&Shell", hemos diseñado un
 
 - **Nuestra estrategia de marca:** para marcar los puntos de nuestra visión a la hora de enfocar la aplicación, estableciendo así el nombre definitivo de nuestra página.
 - **Estilo de nuestro logo:** hemos creado una imagen utilizando inteligencia artificial de una tortuga para utilizarla como logo. Nuestra idea es que las tortugas sean nuestra seña de identidad, pues es un elemento que utilizamos constantemente.
+  
 <br>
 <div align="center">
   <img src="./P3/logo.png" alt="Visualizar" height="300" width="300">
 </div>
 <br>
+
 - **Nuestro branding:** establecemos un eslogan como empresa, buscando atraer a un público ecologista y de bienestar con el juego de palabras de "Thread Shell = Tortugas felices".
 - **Paleta de colores:** utilizamos distintos tonos de verde, que son colores que nos acercan a la naturaleza.
+  
 <br>
 <div align="center">
   <img src="./P3/colores.png" alt="Visualizar" height="500" width="auto">
 </div>
 <br>
+
 - **Tipografia:** utilizamos letras con un estilo minimalista, que sean fáciles de leer en dispositivos pequeños.
 - **Imágenes:**  hemos insertado una serie de imágenes, entre las que encontramos las tortugas felices/tristes y distintos iconos que indican funcionalidades dentro de nuestra aplicación.
 
 Hemos añadido mensajes de inspiración basados en posibles usuarios además de imágenes que hemos utilizado como inspiración de estilo para forjar el nuestro propio.
+
 <br>
 <div align="center">
   <img src="./P3/Moodboard25.png" alt="Visualizar" height="auto" width="auto">
 </div>
 <br>
+
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
