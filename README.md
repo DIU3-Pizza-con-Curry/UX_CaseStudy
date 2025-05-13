@@ -399,7 +399,10 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 
 Para que el funcionamiento de el diseño en Figma de nuestro foro quede claro, hemos añadido un video a modo de tutorial, en el que mostramos de que manera podemos interactuar con el:
 
-[Ver tutorial en video](./P3/tutorial_thread&shell.mp4)
+**Enlace a la simulación de la Práctica 3:** [Enlace a Figma](https://www.figma.com/design/IB9CthJOS3Id6D8RaYn6hK/mockup_DIU3.Pizza-con-Curry?node-id=1-1177&t=G2DJpqDr0hCOBTWi-0)
+<br>**Enlace a un tutorial de nuestra app:** [Tutorial Thread&Shell](https://github.com/DIU3-Pizza-con-Curry/UX_CaseStudy/blob/master/P3/tutorial_thread%26shell.mp4)
+
+
 
 <br>
 
