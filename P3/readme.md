@@ -79,7 +79,54 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 
 ### 3.d Mockup
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+**Cargar web:**
+<br>
+<div align="center">
+  <img src="./P3/Cargar web.png" alt="Visualizar" height="500" width="auto">
+</div>
+<br>
+
+**Pantalla de inicio:**
+<br>
+<div align="center">
+  <img src="./P3/Inicio.png" alt="Visualizar" height="700" width="auto">
+  <img src="./P3/Inicio2.png" alt="Visualizar" height="700" width="auto">
+</div>
+<br>
+
+**Filtro:**
+<br>
+<div align="center">
+  <img src="./P3/Filtrar.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Filtrar2.png" alt="Visualizar" height="500" width="auto">
+</div>
+<br>
+
+**Nueva publicación:**
+<br>
+<div align="center">
+  <img src="./P3/Nueva publicación.png" alt="Visualizar" height="700" width="auto">
+  <img src="./P3/Nueva publicación teclado.png" alt="Visualizar" height="700" width="auto">
+</div>
+<br>
+
+**Publicación Amparo:**
+<br>
+<div align="center">
+  <img src="./P3/Publicación Ámparo.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Publicación Ámparo Like.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Publicación Ámparo Dislike.png" alt="Visualizar" height="500" width="auto">
+</div>
+<br>
+
+**Publicación Jorge:**
+<br>
+<div align="center">
+  <img src="./P3/Publicación Jorge.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Publicación Jorge Like.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Publicación Jorge Dislike.png" alt="Visualizar" height="500" width="auto">
+</div>
+<br>
 
 
 ### 3.e ¿My UX-Case Study?
