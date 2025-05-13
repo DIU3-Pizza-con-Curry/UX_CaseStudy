@@ -388,8 +388,17 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+>>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la prácticP
+
+Para que el funcionamiento de el diseño en Figma de nuestro foro quede claro, hemos añadido un video a modo de tutorial, en el que mostramos de que manera podemos interactuar con el:
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe src="./P3/tutorial_thread&shell.mp4/video/1053359488?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+  frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" 
+  style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+  title="Document360-Microsoft-Customer-Story"></iframe>
+</div>
+<script src="./P3/tutorial_thread&shell.mp4/api/player.js"></script>
 
 <br>
 
