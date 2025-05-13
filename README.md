@@ -405,7 +405,7 @@ Para que el funcionamiento de el diseño en Figma de nuestro foro quede claro, h
 
 ### 3.f Conclusiones
 
->>> Escribir la conclusión de la práctica aquí
+Con este trabajo y sobre todo con nuestra aplicación Thread&Shell, hemos buscado crear un espacio en línea donde la conversación sobre moda reciclada fluya de manteral natural y sea agradable para los distintos tipos de usuarios. Este proyecto ha echo que aprendamos como aplicar principios de diseño UX para desarollar una plataraforma, que esperemos que sea inuitiva, atractiva y sobre todo disfrutona. Tan drisfutona como nosotros hemos disfrutado haciendola.
 
 <br>
 
