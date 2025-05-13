@@ -388,12 +388,15 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la prácticP
-
 Para que el funcionamiento de el diseño en Figma de nuestro foro quede claro, hemos añadido un video a modo de tutorial, en el que mostramos de que manera podemos interactuar con el:
 
 [Ver tutorial en video](./P3/tutorial_thread&shell.mp4)
 
+<br>
+
+### 3.f Conclusiones
+
+>>> Escribir la conclusión de la práctica aquí
 
 <br>
 
