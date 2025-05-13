@@ -139,12 +139,19 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 
 
 ### 3.e ¿My UX-Case Study?
+![Método UX](../img/caseStudy.png) 
+-----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Para que el funcionamiento de el diseño en Figma de nuestro foro quede claro, hemos añadido un video a modo de tutorial, en el que mostramos de que manera podemos interactuar con el:
+
+[Ver tutorial en video](./tutorial_thread&shell.mp4)
 
 <br>
 
 ### 3.f Conclusiones
+
+Con este trabajo y sobre todo con nuestra aplicación Thread&Shell, hemos buscado crear un espacio en línea donde la conversación sobre moda reciclada fluya de manteral natural y sea agradable para los distintos tipos de usuarios. Este proyecto ha echo que aprendamos como aplicar principios de diseño UX para desarollar una plataraforma, que esperemos que sea inuitiva, atractiva y sobre todo disfrutona. Tan drisfutona como nosotros hemos disfrutado haciendola.
+
+<br>
 
 
