@@ -1,11 +1,5 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
-
-
 ## Paso 3. Mi UX-Case Study (diseño)
 
 El nombre que hemos elegido es: **Thread&Shell**
