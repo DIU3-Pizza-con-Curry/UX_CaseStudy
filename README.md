@@ -293,8 +293,14 @@ Hemos añadido mensajes de inspiración basados en posibles usuarios además de 
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Para la Landing Page, no buscabamos una vista demasiado llamativa, mas bien lo contrario, que fuera simple directa y que se entendiese rapido el mensaje. En esta como carta de presentada, escribimos varios mensajes llamativos e incentivos al usuario, para que se interese por descargar nuestro foro, planteando ya desde primeras el tono ecologista que caracteriza a nuestra aplicacion. También mostramos nuestro logo, que es nuestra seña de identidad en varios puntos, como en el fondo de la landing page, abarcando esta, y en el header. Sin olvidar, que la función principa de esta, es que el usuario se interese e instale nuestra app, siendo este botón el más llamativo y accesible de esta página.
 
+
+<br>
+<div align="center">
+  <img src="./P3/landingpage.jpg" alt="Visualizar" height="auto" width="auto">
+</div>
+<br>
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
