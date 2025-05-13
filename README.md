@@ -19,7 +19,7 @@ El hilo de conversación sobre estos posts obviamente girará en torno a la ropa
 
 **Logotipo:** 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img src="./P3/logo.png" alt="Visualizar" height="200" width="200">
 
 Miembros:
  * :bust_in_silhouette:  [Samuel Sánchez Cantero](https://github.com/Zapi24)     :octocat:   
