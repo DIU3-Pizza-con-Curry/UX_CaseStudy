@@ -332,9 +332,10 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
+----
+
 **Enlace a la simulación de la Práctica 3:** [Enlace al prototipo](https://www.figma.com/proto/IB9CthJOS3Id6D8RaYn6hK/mockup_DIU3.Pizza-con-Curry?node-id=1-1180&t=KujEUOlOSzWLGRyH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 <br>**Enlace a un tutorial de nuestra app:** [Tutorial Thread&Shell](https://github.com/DIU3-Pizza-con-Curry/UX_CaseStudy/blob/master/P3/tutorial_thread%26shell.mp4)
-----
 
 **Cargar web:**
 <br>
