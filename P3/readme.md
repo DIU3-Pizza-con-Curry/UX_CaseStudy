@@ -82,49 +82,49 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 **Cargar web:**
 <br>
 <div align="center">
-  <img src="./P3/Cargar web.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Cargar web.png" alt="Visualizar" height="500" width="auto">
 </div>
 <br>
 
 **Pantalla de inicio:**
 <br>
 <div align="center">
-  <img src="./P3/Inicio.png" alt="Visualizar" height="700" width="auto">
-  <img src="./P3/Inicio2.png" alt="Visualizar" height="700" width="auto">
+  <img src="./Inicio.png" alt="Visualizar" height="700" width="auto">
+  <img src="./Inicio2.png" alt="Visualizar" height="700" width="auto">
 </div>
 <br>
 
 **Filtro:**
 <br>
 <div align="center">
-  <img src="./P3/Filtrar.png" alt="Visualizar" height="500" width="auto">
-  <img src="./P3/Filtrar2.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Filtrar.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Filtrar2.png" alt="Visualizar" height="500" width="auto">
 </div>
 <br>
 
 **Nueva publicación:**
 <br>
 <div align="center">
-  <img src="./P3/Nueva publicación.png" alt="Visualizar" height="700" width="auto">
-  <img src="./P3/Nueva publicación teclado.png" alt="Visualizar" height="700" width="auto">
+  <img src="./Nueva publicación.png" alt="Visualizar" height="700" width="auto">
+  <img src="./Nueva publicación teclado.png" alt="Visualizar" height="700" width="auto">
 </div>
 <br>
 
 **Publicación Amparo:**
 <br>
 <div align="center">
-  <img src="./P3/Publicación Ámparo.png" alt="Visualizar" height="500" width="auto">
-  <img src="./P3/Publicación Ámparo Like.png" alt="Visualizar" height="500" width="auto">
-  <img src="./P3/Publicación Ámparo Dislike.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Publicación Ámparo.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Publicación Ámparo Like.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Publicación Ámparo Dislike.png" alt="Visualizar" height="500" width="auto">
 </div>
 <br>
 
 **Publicación Jorge:**
 <br>
 <div align="center">
-  <img src="./P3/Publicación Jorge.png" alt="Visualizar" height="500" width="auto">
-  <img src="./P3/Publicación Jorge Like.png" alt="Visualizar" height="500" width="auto">
-  <img src="./P3/Publicación Jorge Dislike.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Publicación Jorge.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Publicación Jorge Like.png" alt="Visualizar" height="500" width="auto">
+  <img src="./Publicación Jorge Dislike.png" alt="Visualizar" height="500" width="auto">
 </div>
 <br>
 
