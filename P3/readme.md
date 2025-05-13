@@ -6,6 +6,8 @@ El nombre que hemos elegido es: **Thread&Shell**
 
 Hemos intentado unificar la idea principal de nuestro proyecto, que es el de un foro de posts sobre el que ir scrolleando, por eso el término de **Thread** (hilo de posts) con el tema principal de nuestra página, la ecología, por eso hacemos referencia al caparazon de las tortugas, elemento que sale a lo largo de la página **Shell**.
 
+**Enlace a la simulación de la Práctica 3:** [Enlace a Figma](https://www.figma.com/design/IB9CthJOS3Id6D8RaYn6hK/mockup_DIU3.Pizza-con-Curry?node-id=1-1177&t=G2DJpqDr0hCOBTWi-0)
+<br>**Enlace a un tutorial de nuestra app:** [Tutorial Thread&Shell](https://github.com/DIU3-Pizza-con-Curry/UX_CaseStudy/blob/master/P3/tutorial_thread%26shell.mp4)
 
 ### 3.a Moodboard
 
