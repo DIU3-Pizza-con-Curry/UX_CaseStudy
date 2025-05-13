@@ -365,9 +365,9 @@ Nos hemos estado documentando en UI Patterns para definir los siguientes patrone
 **Publicación Amparo:**
 <br>
 <div align="center">
-  <img src="./P3/Publicación Amparo.png" alt="Visualizar" height="500" width="auto">
-  <img src="./P3/Publicación Amparo Like.png" alt="Visualizar" height="500" width="auto">
-  <img src="./P3/Publicación Amparo Dislike.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Publicación Ámparo.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Publicación Ámparo Like.png" alt="Visualizar" height="500" width="auto">
+  <img src="./P3/Publicación Ámparo Dislike.png" alt="Visualizar" height="500" width="auto">
 </div>
 <br>
 
