@@ -420,7 +420,7 @@ Con este trabajo y sobre todo con nuestra aplicación Thread&Shell, hemos buscad
 
 Vamos a analizar el trabajo de nuestros compañeros de grupo DIU1.JaviManuel. Su proyecto se llama [EcoNecta](https://github.com/javiruizz/UX_CaseStudy), que trata sobre una plataforma diseñada para quienes buscan un estilo de vida más sostenible y saludable. A través de su app, ofrecen acceso a productos ecológicos directamente de agricultores y ganadaros locales.
 
-Inicialmente, nos ha llamado mucho la antención la aplicación de nuestros compañeros, por que su idea es muy parecida a la nuestra, enfocada en un estilo de vida ecologista.
+Inicialmente, nos ha llamado mucho la atención la aplicación de nuestros compañeros, por que su idea es muy parecida a la nuestra, enfocada en un estilo de vida ecologista.
 
 
 
