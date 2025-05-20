@@ -418,17 +418,18 @@ Con este trabajo y sobre todo con nuestra aplicación Thread&Shell, hemos buscad
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Vamos a analizar el trabajo de nuestros compañeros de grupo DIU1.JaviManuel. Su proyecto se llama [EcoNecta](https://github.com/javiruizz/UX_CaseStudy), que trata sobre una plataforma diseñada para quienes buscan un estilo de vida más sostenible y saludable. A través de su app, ofrecen acceso a productos ecológicos directamente de agricultores y ganadaros locales.
+
+Inicialmente, nos ha llamado mucho la antención la aplicación de nuestros compañeros, por que su idea es muy parecida a la nuestra, enfocada en un estilo de vida ecologista.
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Real/Ficticio
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- |--------------
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A    | Real
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A    | Real
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B    | Real
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B    | Real
 
 
 ### 4.b Diseño de las pruebas 
