@@ -431,8 +431,8 @@ Partiendo de esto, vamos a definir los dos casos el A y el B:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Real/Ficticio
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- |--------------
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A    | Real
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A    | Real
+| Ángela  | M / 21   | Enfermera en prácticas  | Medio       | Intensa | Windows / Web / Android       | A    | Real
+| Alba  | M / 20   | Estudiante de Ingeniería de COmputadores  | Alta       | Independiente       | Linux / Windows / Web / Android        | A    | Real
 | Samuel | H / 20   | Estudiante de Ingeniería informática     | Alta         | Emocional    | Linux / Windows / Web / Android      | B    | Real
 | Vicky  | M / 25   | Desarrolladora de D365  | Alta       | Resolutiva     | Windows / Web / IOS        | B    | Real
 
@@ -461,18 +461,18 @@ Utilizando una herramienta como GazeRecorder, grabaremos cómo los usuarios expl
 ![Método UX](img/Survey.png) 
 ----
 
-| Nº | Pregunta                                                                 | 1 | 2 | Samuel | Vicky |
+| Nº | Pregunta                                                                 | Ángela | Alba | Samuel | Vicky |
 | -- | ------------------------------------------------------------------------ | - | - | - | - |
-| 1  | Creo que me gustará visitar con frecuencia este website	                |  |  | 4 | 5 |
-| 2  | Encontré el website innecesariamente complejo                        |  |  | 1 | 1 |
-| 3  | Pensé que era fácil utilizar este website	                                |  |  | 5 | 4 |
-| 4  | Creo que necesitaría del apoyo de un experto para recorrer el website      |  |  | 1 | 1 |
-| 5  | Encontré las funciones del website bastante bien integradas                  |  |  | 4 | 5 |
-| 6  | Pensé que había demasiada inconsistencia en el website             |  |  | 1 | 2 |
-| 7  | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |  |  | 5 | 5 |
-| 8  | Encontré el website muy grande al recorrerlo                             |  |  | 1 | 1 |
-| 9  | Me sentí muy confiado en el manejo del website                                |  |  | 4 | 5 |
-| 10 |Necesito aprender muchas cosas antes de manejarse en el website  |  |  | 1 | 1 |
+| 1  | Creo que me gustará visitar con frecuencia este website	                | 4 | 3 | 4 | 5 |
+| 2  | Encontré el website innecesariamente complejo                        | 1 | 1 | 1 | 1 |
+| 3  | Pensé que era fácil utilizar este website	                                | 5 | 5 | 5 | 4 |
+| 4  | Creo que necesitaría del apoyo de un experto para recorrer el website      | 1 | 1 | 1 | 1 |
+| 5  | Encontré las funciones del website bastante bien integradas                  | 5 | 5 | 4 | 5 |
+| 6  | Pensé que había demasiada inconsistencia en el website             | 1 | 1 | 1 | 2 |
+| 7  | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4 | 3 | 5 | 5 |
+| 8  | Encontré el website muy grande al recorrerlo                             | 1 | 1 | 1 | 1 |
+| 9  | Me sentí muy confiado en el manejo del website                                | 5 | 5 | 4 | 5 |
+| 10 |Necesito aprender muchas cosas antes de manejarse en el website  | 1 | 1 | 1 | 1 |
 
 ---
 
@@ -491,7 +491,7 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 | --------- | ------------- | ----- | ----------------------- | ------------- |
 | Usuario 1 | A             | 28/05/2025 |                         |               |
 | Usuario 2 | A             | 28/05/2025 |                         |               |
-| Samuel | B             | 27/05/2025 |            92.5          |               |
+| Samuel | B             | 27/05/2025 |            92.5          | Por lo general el wireframe resulta muy intuitivo y es muy fácil de utilizar  |
 | Vicky | B             | 27/05/2025 |             95         |               |
 
 
@@ -499,14 +499,19 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+Para realizar el test, hemos pensado en poner a prueba ambos wireframes, tanto el nuestro como el de nuestros compañeros a prueba. Vamos a ver cual de los dos diseños es más rapido e intuitivo a la hora de plubliar un nuevo post. Es una mecánica que que nosotros tenemos incluido como publicar posts y ellos como vender nuevo producto, pero al final es lo mismo. Vamos a ver cual es más directo para lo que vamos a evaluar tres puntos:
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+1. Cuanto tiempo tarda en publicar un nuevo posts
+2. Cuantos click utiliza para ello
+3. Número de errores o dudas. Entre lsa que contamos: Preguntas que se hagan para averiguar el funcionamiento, cliks de error al pensar que estaba la opción en un sitio donde no era etc
+
+Vamos a poner a prueba a dos usuarios distintos sobre los dos wireframes, para tener una comparación más valida que si fuera uno solo: 
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
-Para analizar esta parts hemos utilizado el software de GazeRecorder. El cual a través de un test de calibración con la cámara, ha captado nuestra visión para calcular los puntos de la pantalla en la que más enfocamos nuestra vista. Hemos evaluado la landing page de nuestro compañero a través de dos tipos de métricas:
+Para analizar esta parte hemos utilizado el software de GazeRecorder. El cual a través de un test de calibración con la cámara, ha captado nuestra visión para calcular los puntos de la pantalla en la que más enfocamos nuestra vista. Hemos evaluado la landing page de nuestro compañero a través de dos tipos de métricas:
 
 - En la primera imagen podemos ver los mapas de calor de nuestra visión donde nos marca los puntos en los que más nos hemos fijado.
 - La segunda imagen nos da unas métricas del porcentaje de tiempo que hemos estado mirando los distintos puntos de interés de la landing page.
@@ -525,7 +530,7 @@ Para analizar esta parts hemos utilizado el software de GazeRecorder. El cual a 
 </div>
 <br>
 
-Por lo general, considremos que la lading page es muy correcta. Los enlaces de descarga han resultado elementos de los más llamativos a partir de los datos, que al final es nuestro objetivo como desarrolladores, llamar la atención del usuario para incitar su descarga. El único problema que hemos podido encontrar es que el primer usuario, ha estado mirando más tiempo la imagen de decoración de la derecha que cualquier otro elemento. Es posible que sea demasiado llamativo o que se lleve más atención de la necesaria.
+Por lo general, consideramos que la lading page es muy correcta. Los enlaces de descarga han resultado elementos de los más llamativos a partir de los datos, que al final es nuestro objetivo como desarrolladores, llamar la atención del usuario para incitar su descarga. El único problema que hemos podido encontrar es que el primer usuario, ha estado mirando más tiempo la imagen de decoración de la derecha que cualquier otro elemento. Es posible que sea demasiado llamativo o que se lleve más atención de la necesaria.
 
 
 ### 4.f Usability Report de B
