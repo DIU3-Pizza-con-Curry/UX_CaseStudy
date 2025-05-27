@@ -472,18 +472,18 @@ Aquí tienes el **Cuestionario SUS (System Usability Scale)** listo para ser con
 
 **Instrucciones:** Conteste según su experiencia con la aplicación. Marque una sola opción por pregunta.
 
-| Nº | Pregunta                                                                 | 1 | 2 | 3 | 4 |
+| Nº | Pregunta                                                                 | 1 | 2 | Samuel | Vicky |
 | -- | ------------------------------------------------------------------------ | - | - | - | - |
-| 1  | Creo que me gustaría usar esta aplicación con frecuencia.                |  |  |  |  |
-| 2  | Encontré la aplicación innecesariamente compleja.                        |  |  |  |  |
-| 3  | Creo que la aplicación fue fácil de usar.                                |  |  |  |  |
-| 4  | Creo que necesitaría ayuda técnica para poder usar esta aplicación.      |  |  |  |  |
-| 5  | Las funciones de la aplicación estaban bien integradas.                  |  |  |  |  |
-| 6  | Pienso que hubo demasiada inconsistencia en esta aplicación.             |  |  |  |  |
-| 7  | Imagino que la mayoría de las personas aprenderían a usarla rápidamente. |  |  |  |  |
-| 8  | Encontré la aplicación muy torpe de manejar.                             |  |  |  |  |
-| 9  | Me sentí seguro/a usando esta aplicación.                                |  |  |  |  |
-| 10 | Necesité aprender muchas cosas antes de poder utilizarla correctamente.  |  |  |  |  |
+| 1  | Creo que me gustará visitar con frecuencia este website	                |  |  | 4 | 5 |
+| 2  | Encontré el website innecesariamente complejo                        |  |  | 1 | 1 |
+| 3  | Pensé que era fácil utilizar este website	                                |  |  | 5 | 4 |
+| 4  | Creo que necesitaría del apoyo de un experto para recorrer el website      |  |  | 1 | 1 |
+| 5  | Encontré las funciones del website bastante bien integradas                  |  |  | 4 | 5 |
+| 6  | Pensé que había demasiada inconsistencia en el website             |  |  | 1 | 2 |
+| 7  | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |  |  | 5 | 5 |
+| 8  | Encontré el website muy grande al recorrerlo                             |  |  | 1 | 1 |
+| 9  | Me sentí muy confiado en el manejo del website                                |  |  | 4 | 5 |
+| 10 |Necesito aprender muchas cosas antes de manejarse en el website  |  |  | 1 | 1 |
 
 ---
 
@@ -491,10 +491,10 @@ Aquí tienes el **Cuestionario SUS (System Usability Scale)** listo para ser con
 
 | Usuario   | Caso Evaluado | Fecha | Resultado SUS (puntaje) | Observaciones |
 | --------- | ------------- | ----- | ----------------------- | ------------- |
-| Usuario 1 | A             | 28/05/2025                          |               |
+| Usuario 1 | A             | 28/05/2025 |                         |               |
 | Usuario 2 | A             | 28/05/2025 |                         |               |
-| Samuel | B             | 27/05/2025 |                         |               |
-| Vicky | B             | 27/05/2025 |                         |               |
+| Samuel | B             | 27/05/2025 |            92.5          |               |
+| Vicky | B             | 27/05/2025 |             95         |               |
 
 ---
 
