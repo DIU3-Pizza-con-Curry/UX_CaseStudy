@@ -422,22 +422,39 @@ Vamos a analizar el trabajo de nuestros compañeros de grupo DIU1.JaviManuel. Su
 
 Inicialmente, nos ha llamado mucho la atención la aplicación de nuestros compañeros, por que su idea es muy parecida a la nuestra, enfocada en un estilo de vida ecologista.
 
+Partiendo de esto, vamos a definir los dos casos el A y el B:
+
+**CASO A:** El caso A hace referencia a nuestro proyecto de practicas, el cual será evalorado por nuestros compañeros de piso.
+**CASO B:** El caso B hace referencia al proyecto de nuestros compañeroa de EcoNecta, el cual valoraremos nosostros mismos.
+
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Real/Ficticio
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- |--------------
 | User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A    | Real
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A    | Real
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B    | Real
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B    | Real
+| Samuel | H / 20   | Estudiante de Ingeniería informática     | Alta         | Emocional    | Linux / Windows / Web / Android      | B    | Real
+| Vicky  | M / 25   | Desarrolladora de D365  | Alta       | Resolutiva     | Windows / Web / IOS        | B    | Real
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Vamos a realizar distintas pruebas para valorar el diseño de las aplicaciones que hemos desarrollado:
 
+- **Cuestionario SUS (System Usability Scale)**
+
+Evaluaremos qué tan fácil y agradable ha sido usar la aplicación mediante un breve cuestionario de 10 preguntas. Cada usuario lo completará tras interactuar con uno de los diseños, y con sus respuestas obtendremos una puntuación de usabilidad.
+
+
+- **A/B Testing**
+
+Compararemos nuestra aplicación con la de nuestro compañero. Mediremos cuál permite realizar tareas clave de forma más rápida y clara. Compararemos los resultados para identificar el diseño más efectivo. Partiendo obviamente de que son implementaciones distintas para problemas distintos. En este punto valoraremos sobre todo la claridad y rápidez de uso, no que aplicación es mejor que la otra. 
+
+- **Eye Tracking (Seguimiento Visual)**
+
+Utilizando una herramienta como GazeRecorder, grabaremos cómo los usuarios exploran visualmente la interfaz. Esto nos ayudará a entender qué elementos llaman más la atención y si encuentran fácilmente lo que buscan.
 
 
 ### 4.c Cuestionario SUS
