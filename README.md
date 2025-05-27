@@ -476,6 +476,17 @@ Utilizando una herramienta como GazeRecorder, grabaremos cómo los usuarios expl
 
 ---
 
+**¿Cómo calculamos nuestra nota?**
+
+Si no nos hemos dado cuenta al realizar el test, tenemos que fijarnos en que todas las preguntas pares buscan calificar positivamente el website, y las impares negativamente. Para evaluarlo, tenemos que sumar todas nuestras respuestas de la siguientes manera:
+
+Las preguntas impares se puntúan como:  **nota - 1** Ej: Si hemos puntuado con un 5, tenemos que sumar al cómputo 5-1 = 4.
+Las preguntas pares se puntúan como: **5 - nota** Ej: Si hemos puntuado con un 2, tenemos que sumar al cómputo un 5-2 = 3.
+
+Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multiplicamos por 2.5 el resultado de la suma, para calcular nuestra nota final sobre 100. Como ejemplo, vamos a calcular la nota de Samuel:
+
+3 + 4 + 4 + 4 + 3 + 4 + 4 + 4 + 4 + 4 = 37. => 37 * 2.5 = 92.5
+
 | Usuario   | Caso Evaluado | Fecha | Resultado SUS (puntaje) | Observaciones |
 | --------- | ------------- | ----- | ----------------------- | ------------- |
 | Usuario 1 | A             | 28/05/2025 |                         |               |
@@ -517,29 +528,6 @@ Utilizando una herramienta como GazeRecorder, grabaremos cómo los usuarios expl
 
 <br>
 
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
 
 
