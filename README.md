@@ -464,7 +464,41 @@ Utilizando una herramienta como GazeRecorder, grabaremos cómo los usuarios expl
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Aquí tienes el **Cuestionario SUS (System Usability Scale)** listo para ser contestado por **4 usuarios** (2 para el **Caso A** y 2 para el **Caso B**). Lo he preparado con un diseño claro y organizado para facilitar su uso. Cada pregunta se responde en una escala del **1 (Totalmente en desacuerdo)** al **5 (Totalmente de acuerdo)**.
+
+---
+
+## 📝 Cuestionario SUS — Evaluación de Usabilidad
+
+**Instrucciones:** Conteste según su experiencia con la aplicación. Marque una sola opción por pregunta.
+
+| Nº | Pregunta                                                                 | 1 | 2 | 3 | 4 |
+| -- | ------------------------------------------------------------------------ | - | - | - | - |
+| 1  | Creo que me gustaría usar esta aplicación con frecuencia.                |  |  |  |  |
+| 2  | Encontré la aplicación innecesariamente compleja.                        |  |  |  |  |
+| 3  | Creo que la aplicación fue fácil de usar.                                |  |  |  |  |
+| 4  | Creo que necesitaría ayuda técnica para poder usar esta aplicación.      |  |  |  |  |
+| 5  | Las funciones de la aplicación estaban bien integradas.                  |  |  |  |  |
+| 6  | Pienso que hubo demasiada inconsistencia en esta aplicación.             |  |  |  |  |
+| 7  | Imagino que la mayoría de las personas aprenderían a usarla rápidamente. |  |  |  |  |
+| 8  | Encontré la aplicación muy torpe de manejar.                             |  |  |  |  |
+| 9  | Me sentí seguro/a usando esta aplicación.                                |  |  |  |  |
+| 10 | Necesité aprender muchas cosas antes de poder utilizarla correctamente.  |  |  |  |  |
+
+---
+
+## 👥 Usuarios
+
+| Usuario   | Caso Evaluado | Fecha | Resultado SUS (puntaje) | Observaciones |
+| --------- | ------------- | ----- | ----------------------- | ------------- |
+| Usuario 1 | A             | 28/05/2025                          |               |
+| Usuario 2 | A             | 28/05/2025 |                         |               |
+| Samuel | B             | 27/05/2025 |                         |               |
+| Vicky | B             | 27/05/2025 |                         |               |
+
+---
+
+¿Quieres que te prepare también una hoja de cálculo lista para rellenar los datos y calcular automáticamente el resultado del cuestionario SUS?
 
 
 ### 4.d A/B Testing
