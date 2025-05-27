@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 **Grupo:** DIU3.Pizza-con-Curry.  Curso: 2024/25 
 
-Actualizado: 13/05/2025
+Actualizado: 27/05/2025
 
 **Proyecto:**
 
@@ -461,17 +461,6 @@ Utilizando una herramienta como GazeRecorder, grabaremos cómo los usuarios expl
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-Aquí tienes el **Cuestionario SUS (System Usability Scale)** listo para ser contestado por **4 usuarios** (2 para el **Caso A** y 2 para el **Caso B**). Lo he preparado con un diseño claro y organizado para facilitar su uso. Cada pregunta se responde en una escala del **1 (Totalmente en desacuerdo)** al **5 (Totalmente de acuerdo)**.
-
----
-
-## 📝 Cuestionario SUS — Evaluación de Usabilidad
-
-**Instrucciones:** Conteste según su experiencia con la aplicación. Marque una sola opción por pregunta.
-
 | Nº | Pregunta                                                                 | 1 | 2 | Samuel | Vicky |
 | -- | ------------------------------------------------------------------------ | - | - | - | - |
 | 1  | Creo que me gustará visitar con frecuencia este website	                |  |  | 4 | 5 |
@@ -487,8 +476,6 @@ Aquí tienes el **Cuestionario SUS (System Usability Scale)** listo para ser con
 
 ---
 
-## 👥 Usuarios
-
 | Usuario   | Caso Evaluado | Fecha | Resultado SUS (puntaje) | Observaciones |
 | --------- | ------------- | ----- | ----------------------- | ------------- |
 | Usuario 1 | A             | 28/05/2025 |                         |               |
@@ -496,9 +483,6 @@ Aquí tienes el **Cuestionario SUS (System Usability Scale)** listo para ser con
 | Samuel | B             | 27/05/2025 |            92.5          |               |
 | Vicky | B             | 27/05/2025 |             95         |               |
 
----
-
-¿Quieres que te prepare también una hoja de cálculo lista para rellenar los datos y calcular automáticamente el resultado del cuestionario SUS?
 
 
 ### 4.d A/B Testing
