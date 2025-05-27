@@ -508,15 +508,15 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 
 <br>
 <div align="center">
-  <img src="./P4/eyetracking_samuel.png" alt="EyeTracking Samuel" height="500" width="auto">
-  <img src="./P4/eyetracking_tiempo_samuel.png" alt="EyeTracking Samuel (tiempo)" height="500" width="auto">
+  <img src="./P4/eyetracking_samuel.png" alt="EyeTracking Samuel" height="250" width="auto">
+  <img src="./P4/eyetracking_tiempo_samuel.png" alt="EyeTracking Samuel (tiempo)" height="250" width="auto">
 </div>
 <br>
 
 <br>
 <div align="center">
-  <img src="./P4/eyetracking_vicky.png" alt="EyeTracking Vicky" height="500" width="auto">
-  <img src="./P4/eyetracking_tiempo_vicky.png" alt="EyeTracking Vicky (tiempo)" height="500" width="auto">
+  <img src="./P4/eyetracking_vicky.png" alt="EyeTracking Vicky" height="250" width="auto">
+  <img src="./P4/eyetracking_tiempo_vicky.png" alt="EyeTracking Vicky (tiempo)" height="250" width="auto">
 </div>
 <br>
 
