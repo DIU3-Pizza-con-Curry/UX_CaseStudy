@@ -506,13 +506,19 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+<br>
+<div align="center">
+  <img src="./P4/eyetracking_samuel.png" alt="EyeTracking Samuel" height="500" width="auto">
+  <img src="./P4/eyetracking_tiempo_samuel.png" alt="EyeTracking Samuel (tiempo)" height="500" width="auto">
+</div>
+<br>
 
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+<br>
+<div align="center">
+  <img src="./P4/eyetracking_vicky.png" alt="EyeTracking Vicky" height="500" width="auto">
+  <img src="./P4/eyetracking_tiempo_vicky.png" alt="EyeTracking Vicky (tiempo)" height="500" width="auto">
+</div>
+<br>
 
 
 ### 4.f Usability Report de B
