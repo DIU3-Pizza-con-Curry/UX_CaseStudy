@@ -489,8 +489,8 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 
 | Usuario   | Caso Evaluado | Fecha | Resultado SUS (puntaje) | Observaciones |
 | --------- | ------------- | ----- | ----------------------- | ------------- |
-| Usuario 1 | A             | 28/05/2025 |                         |               |
-| Usuario 2 | A             | 28/05/2025 |                         |               |
+| Usuario 1 | A             | 28/05/2025 |           95              |               |
+| Usuario 2 | A             | 28/05/2025 |            90             |               |
 | Samuel | B             | 27/05/2025 |            92.5          | Por lo general el wireframe resulta muy intuitivo y es muy fácil de utilizar  |
 | Vicky | B             | 27/05/2025 |             95         |               |
 
