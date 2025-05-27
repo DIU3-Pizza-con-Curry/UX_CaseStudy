@@ -506,6 +506,11 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 ![Método UX](img/eye-tracking.png)
 ----
 
+Para analizar esta parts hemos utilizado el software de GazeRecorder. El cual a través de un test de calibración con la cámara, ha captado nuestra visión para calcular los puntos de la pantalla en la que más enfocamos nuestra vista. Hemos evaluado la landing page de nuestro compañero a través de dos tipos de métricas:
+
+- En la primera imagen podemos ver los mapas de calor de nuestra visión donde nos marca los puntos en los que más nos hemos fijado.
+- La segunda imagen nos da unas métricas del porcentaje de tiempo que hemos estado mirando los distintos puntos de interés de la landing page.
+
 <br>
 <div align="center">
   <img src="./P4/eyetracking_samuel.png" alt="EyeTracking Samuel" height="250" width="auto">
@@ -519,6 +524,8 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
   <img src="./P4/eyetrcking_tiempo_vicky.png" alt="EyeTracking Vicky (tiempo)" height="250" width="auto">
 </div>
 <br>
+
+Por lo general, considremos que la lading page es muy correcta. Los enlaces de descarga han resultado elementos de los más llamativos a partir de los datos, que al final es nuestro objetivo como desarrolladores, llamar la atención del usuario para incitar su descarga. El único problema que hemos podido encontrar es que el primer usuario, ha estado mirando más tiempo la imagen de decoración de la derecha que cualquier otro elemento. Es posible que sea demasiado llamativo o que se lleve más atención de la necesaria.
 
 
 ### 4.f Usability Report de B
