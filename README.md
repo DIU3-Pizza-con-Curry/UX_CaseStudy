@@ -513,6 +513,14 @@ Vamos a poner a prueba a dos usuarios distintos sobre los dos wireframes, para t
 </div>
 <br>
 
+Las conclusiones que hemos sacado de este usuario es que es de un caracter "ansioso" lo que encaja con su definición de personalidad "intensa", es decir, en vez de quedarse leyendo o analizando las distintas opciones que se ofrecen en la pantalla, prefiere navegar sobre el WireFrame para entender su funcionamiento y sobre esto indagar y obtener la respuesta que buscaba. 
+En el caso A no es tan obvio, lo primero que hace es scrollear hasta abajo del todo, después vuelve al principio y por último pulsa sobre la opción que buscábamos, todo ello en un plazo muy corto de tiempo. Los datos que sacamos es que ha tardado 2.5 segundos, se ha equivocado una vez al scrollear y ha completado la acción en un solo click.
+En el caso B ha quedado más claro, primero pulsa en el carrito teniendo que volver hacia atrás. Después pulsa en la opción de ver nuestros productos y en el momento en el que se da cuenta de que se ha equivocado por segunda vez es cuando se para a pensar y analizar. En este punto encuentra la opción de "vender" llegando a nuestro destino. Los datos que sacamos es que ha tardado 5 segundos, se ha equivocado en dos ocasiones y ha tardado 4 clicks en total.
+
+<br>
+
+A continuación vamos a poner a prueba al segundo usuario:
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
