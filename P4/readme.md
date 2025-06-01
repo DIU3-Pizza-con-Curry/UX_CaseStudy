@@ -155,6 +155,6 @@ Por lo general, consideramos que la lading page es muy correcta. Los enlaces de 
 El Usability report es un reporte final que hemos elaborado a nivel de sintésis y conslusión sobre las distintas pruebas que ya hemos realizado a los usuarios. Hay muchos aspectos de los que ya hemos hablado aquí, pero siempre está bien unificarlo y sacar conclusiones globales sobre los datos obtenidos. Aqui inserto el enlace a nuestro Usability Report:
 
 
-![Usability_Report](P4/Usability-Report-template.md) 
+![Usability_Report](./Usability-Report-template.md) 
 
 <br>
