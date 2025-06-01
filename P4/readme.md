@@ -1,7 +1,7 @@
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
+![Método UX](../img/usability-testing.png)
 -----
 
 Vamos a analizar el trabajo de nuestros compañeros de grupo DIU1.JaviManuel. Su proyecto se llama [EcoNecta](https://github.com/javiruizz/UX_CaseStudy), que trata sobre una plataforma diseñada para quienes buscan un estilo de vida más sostenible y saludable. A través de su app, ofrecen acceso a productos ecológicos directamente de agricultores y ganadaros locales.
@@ -24,7 +24,7 @@ Partiendo de esto, vamos a definir los dos casos el A y el B:
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
+![Método UX](../img/usability-testing.png) 
 -----
 
 Vamos a realizar distintas pruebas para valorar el diseño de las aplicaciones que hemos desarrollado:
@@ -44,7 +44,7 @@ Utilizando una herramienta como GazeRecorder, grabaremos cómo los usuarios expl
 
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
+![Método UX](../img/Survey.png) 
 ----
 
 | Nº | Pregunta                                                                 | Ángela | Alba | Samuel | Vicky |
@@ -83,7 +83,7 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 
 
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
+![Método UX](../img/ABtesting.png) 
 -----
 Para realizar el test, hemos pensado en poner a prueba ambos wireframes, tanto el nuestro como el de nuestros compañeros a prueba. Vamos a ver cual de los dos diseños es más rapido e intuitivo a la hora de publicar un nuevo post. Es una mecánica que que nosotros tenemos incluido como publicar posts y ellos como vender nuevo producto, pero al final es lo mismo. Vamos a ver cual es más directo para lo que vamos a evaluar tres puntos:
 
@@ -123,7 +123,7 @@ En conclusión ambas funcionalidades son bien accesibles, pues podemos llegar a 
 
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
+![Método UX](../img/eye-tracking.png)
 ----
 
 Para analizar esta parte hemos utilizado el software de GazeRecorder. El cual a través de un test de calibración con la cámara, ha captado nuestra visión para calcular los puntos de la pantalla en la que más enfocamos nuestra vista. Hemos evaluado la landing page de nuestro compañero a través de dos tipos de métricas:
@@ -149,7 +149,7 @@ Por lo general, consideramos que la lading page es muy correcta. Los enlaces de 
 
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
+![Método UX](../img/usability-report.png) 
 -----
 
 El Usability report es un reporte final que hemos elaborado a nivel de sintésis y conslusión sobre las distintas pruebas que ya hemos realizado a los usuarios. Hay muchos aspectos de los que ya hemos hablado aquí, pero siempre está bien unificarlo y sacar conclusiones globales sobre los datos obtenidos. Aqui inserto el enlace a nuestro Usability Report:
