@@ -566,12 +566,10 @@ Por lo general, consideramos que la lading page es muy correcta. Los enlaces de 
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+El Usability report es un reporte final que hemos elaborado a nivel de sintésis y conslusión sobre las distintas pruebas que ya hemos realizado a los usuarios. Hay muchos aspectos de los que ya hemos hablado aquí, pero siempre está bien unificarlo y sacar conclusiones globales sobre los datos obtenidos. Aqui inserto el enlace a nuestro Usability Report:
 
 
+![Usability_Report](P4/Usability-Report-template.md) 
 
 <br>
 
