@@ -523,6 +523,12 @@ En el caso B ha quedado más claro, primero pulsa en el carrito teniendo que vol
 
 A continuación vamos a poner a prueba al segundo usuario:
 
+<br>
+<div align="center">
+  <img src="./P4/segundo_usuario.png" alt="EyeTracking Vicky" height="700" width="auto">
+</div>
+<br>
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
