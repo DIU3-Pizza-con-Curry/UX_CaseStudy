@@ -499,13 +499,14 @@ Si sumamos todos los puntajes podemos obtener un máximo de 40, por lo que multi
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
-Para realizar el test, hemos pensado en poner a prueba ambos wireframes, tanto el nuestro como el de nuestros compañeros a prueba. Vamos a ver cual de los dos diseños es más rapido e intuitivo a la hora de plubliar un nuevo post. Es una mecánica que que nosotros tenemos incluido como publicar posts y ellos como vender nuevo producto, pero al final es lo mismo. Vamos a ver cual es más directo para lo que vamos a evaluar tres puntos:
+Para realizar el test, hemos pensado en poner a prueba ambos wireframes, tanto el nuestro como el de nuestros compañeros a prueba. Vamos a ver cual de los dos diseños es más rapido e intuitivo a la hora de publicar un nuevo post. Es una mecánica que que nosotros tenemos incluido como publicar posts y ellos como vender nuevo producto, pero al final es lo mismo. Vamos a ver cual es más directo para lo que vamos a evaluar tres puntos:
 
-1. Cuanto tiempo tarda en publicar un nuevo posts
+1. Cuanto tiempo tarda en publicar un nuevo post
 2. Cuantos click utiliza para ello
-3. Número de errores o dudas. Entre lsa que contamos: Preguntas que se hagan para averiguar el funcionamiento, cliks de error al pensar que estaba la opción en un sitio donde no era etc
+3. Número de errores o dudas. Entre las que contamos: Preguntas que se hagan para averiguar el funcionamiento, cliks de error al pensar que estaba la opción en un sitio donde no era etc
 
-Vamos a poner a prueba a dos usuarios distintos sobre los dos wireframes, para tener una comparación más valida que si fuera uno solo: 
+Vamos a poner a prueba a dos usuarios distintos sobre los dos wireframes, para tener una comparación más valida que si fuera uno solo. A continuación vamos a mostrar dos diagramas de acciones, en el que se ven las distinas acciones que realizan cada usuario de uno en uno además de el tiempo entre ellas. Cabe recalcar que el primer usuario tenía un poco más de contexto sobre el funcionamiento y el tema de ambos WireFrames, pero el segundo era la primera vez que interactuaba con estos, por lo que es un ejemplo más realista a la hora de testear el primer contacto con la aplicación;
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
