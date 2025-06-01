@@ -529,6 +529,12 @@ A continuación vamos a poner a prueba al segundo usuario:
 </div>
 <br>
 
+El segundo usuario hemos comprobado que es bastante opuesto al primero. Mientras al primero no le gustaba perder tiempo e intentar hacer las acciones lo más rapido posible aun equivocandose, este usuario es mucho más calmado y se para a analizar la app por completo hasta encontrar la opción correcta. Ha completado ambos test en tan solo un click y sin fallos, siendo el primero en 3 segundos y el segundo en 6.
+
+<br>
+
+En conclusión ambas funcionalidades son bien accesibles, pues podemos llegar a ellas a través de un solo click de forma correcta. Sin embargo la primera resulta más intuitiva, ya que para ambos usuarios el tiempo, el número de click y de errores ha sido inferior. Que en el segundo wireframe esta opción esté en el footer y no en el centro de la pantalla como en la primera tiene mucho que ver. El footer suele ser información que tiene poca relevancia visual, y la opción de comprar comparte espacio con otras que no tienen mucha relevancia. Por lo tanto el primer wireframe gana en este caso.
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
