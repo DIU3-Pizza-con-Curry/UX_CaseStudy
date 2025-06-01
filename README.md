@@ -509,7 +509,7 @@ Vamos a poner a prueba a dos usuarios distintos sobre los dos wireframes, para t
 
 <br>
 <div align="center">
-  <img src="./P4/primer_usuario.png" alt="EyeTracking Vicky" height="600" width="auto">
+  <img src="./P4/primer_usuario.png" alt="EyeTracking Vicky" height="700" width="auto">
 </div>
 <br>
 
