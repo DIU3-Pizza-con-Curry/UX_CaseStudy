@@ -505,7 +505,13 @@ Para realizar el test, hemos pensado en poner a prueba ambos wireframes, tanto e
 2. Cuantos click utiliza para ello
 3. Número de errores o dudas. Entre las que contamos: Preguntas que se hagan para averiguar el funcionamiento, cliks de error al pensar que estaba la opción en un sitio donde no era etc
 
-Vamos a poner a prueba a dos usuarios distintos sobre los dos wireframes, para tener una comparación más valida que si fuera uno solo. A continuación vamos a mostrar dos diagramas de acciones, en el que se ven las distinas acciones que realizan cada usuario de uno en uno además de el tiempo entre ellas. Cabe recalcar que el primer usuario tenía un poco más de contexto sobre el funcionamiento y el tema de ambos WireFrames, pero el segundo era la primera vez que interactuaba con estos, por lo que es un ejemplo más realista a la hora de testear el primer contacto con la aplicación;
+Vamos a poner a prueba a dos usuarios distintos sobre los dos wireframes, para tener una comparación más valida que si fuera uno solo. A continuación vamos a mostrar dos diagramas de acciones en el que se ven las distinas acciones que realizan cada usuario en cada uno, además de el tiempo entre ellas. Cabe recalcar que el primer usuario tenía un poco más de contexto sobre el funcionamiento y el tema de ambos WireFrames, pero el segundo era la primera vez que interactuaba con estos, por lo que es un ejemplo más realista a la hora de testear el primer contacto con la aplicación:
+
+<br>
+<div align="center">
+  <img src="./P4/primer_usuario.png" alt="EyeTracking Vicky" height="400" width="auto">
+</div>
+<br>
 
 
 ### 4.e Aplicación del método Eye Tracking 
